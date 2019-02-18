@@ -3,7 +3,7 @@ require_relative 'config/environment'
 class App < Sinatra::Base
 
     get "/" do
-        "fuck off wicha then"
+        "eyyy"
     end
 
     get "/name" do
